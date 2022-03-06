@@ -1,8 +1,9 @@
-/* hello.c */
+/* main.c */
 #include <stdio.h>
 
-void main (void)
+int main(void)
 {
-	printf ("Hello World\n");
-	printf ("Goodbye World\n");
+	printf("Hello World\n");
+	printf("Goodbye World\n");
+  return 0;
 }
